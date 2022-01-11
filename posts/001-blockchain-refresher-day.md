@@ -1,7 +1,10 @@
 ---
-title: "[001] Blockchain Refresher"
+title: "001: Blockchain Refresher"
 date: "2022-01-10"
 ---
+
+![My first swap!](/images/my-first-swap.png)
+_My first swap!_
 
 My hope for Day 1 of 100 Days of Making(DAO?) was to start off by implementing a vanilla DAO -- i.e. the most basic implementation of a DAO in solidity.
 
@@ -17,6 +20,7 @@ I'm tired from a full night of (reading) research, so there isn't much to post h
 
 Keyword soup:
 - uniswap - contracts to swap between tokens
+- slippage
 - DAO platforms- daohaus / colony / aragon / daostack
 - bridge - intuitively, locking tokens on one network to use them on another network...; technically, no clue =[
 - Polygon / MATIC / Plasma vs PoS
