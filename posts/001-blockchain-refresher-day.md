@@ -18,7 +18,7 @@ I spent the day reading up about different DAO providers. This is a completely n
 
 I'm tired from a full night of (reading) research, so there isn't much to post here. For future me, I want to just kind of highlight all the new concepts I encountered today in keyword form with the hopes that I can look back on the progress I've made on Day 100.
 
-Keyword soup:
+## Keyword soup:
 - uniswap - contracts to swap between tokens
 - slippage
 - DAO platforms- daohaus / colony / aragon / daostack

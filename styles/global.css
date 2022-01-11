@@ -1,3 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 html,
 body {
   padding: 0;
@@ -24,4 +28,13 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
 }
