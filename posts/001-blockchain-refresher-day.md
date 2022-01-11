@@ -21,7 +21,8 @@ I'm tired from a full night of (reading) research, so there isn't much to post h
 ## Keyword soup:
 - uniswap - contracts to swap between tokens
 - slippage
-- DAO platforms- daohaus / colony / aragon / daostack
+- DAO platforms - daohaus / colony / aragon / daostack
+- community governance
 - bridge - intuitively, locking tokens on one network to use them on another network...; technically, no clue =[
 - Polygon / MATIC / Plasma vs PoS
 - xDAI, Binance Smart Coin, Solana
@@ -31,5 +32,6 @@ I'm tired from a full night of (reading) research, so there isn't much to post h
 - boosts (for extending DAOs)
 - minions (for interacting with other smart contracts)
 - sushiswap, gnosis safe and multisig, superfluid
+- yield farming
 - gas tracker (I know understand why everyone has desktop pcomp gas trackers now!)
 - also: next.js / vercel
