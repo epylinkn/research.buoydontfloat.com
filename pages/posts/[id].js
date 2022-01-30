@@ -15,6 +15,20 @@ export default function Post({ postData }) {
         <div className={"mb-4 text-center " + utilStyles.lightText}>
           <Date dateString={postData.date} />
         </div>
+
+        {postData.videoSrc && (
+          <video 
+            playsInline
+            muted
+            loop
+            autoPlay
+            width="100%"
+            controlsList="nodownload"
+          >
+            <source src={ postData.videoSrc } type="video/mp4" />
+          </video>
+        )}
+
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
     </Layout>
